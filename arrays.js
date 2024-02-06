@@ -36,4 +36,8 @@ console.log();
 let oldestMember;
 console.log();
 
+// Done Early?
+//  - On your own, create an array that combines both the class list and the teacher list without rewriting the names of students and teachers.
+//  - Google how to combine arrays you've already created.
+
 
